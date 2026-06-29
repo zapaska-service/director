@@ -1,0 +1,10 @@
+{
+  "short_name": "ЗАПАСКА",
+  "name": "ЗАПАСКА СЕРВИС",
+  "start_url": "index.html",
+  "background_color": "#060606",
+  "theme-color": "#060606",
+  "theme_color": "#060606",
+  "display": "standalone",
+  "orientation": "portrait"
+}
